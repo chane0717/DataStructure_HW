@@ -1,5 +1,5 @@
-package locatedrectangle;
-public class TestDestRotate{
+
+public class TestDestRotate {
     public static void main(String args[]){
         LocatedRect r1 = new LocatedRect(1.0,3.0,1.0,2.0);
         LocatedRect r2 = new LocatedRect(1.0,3.0,1.0,2.0);

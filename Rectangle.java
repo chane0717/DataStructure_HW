@@ -1,6 +1,5 @@
 // Rectangle.java
 // A ``floating'' rectangle has a width xSpan and a height ySpan
-//package locatedrectangle;
 
 public class Rectangle {
     protected double xSpan, ySpan;
@@ -30,5 +29,7 @@ public class Rectangle {
         return new Rectangle(getYSpan(),getXSpan());
     }
 
-
+    public static void main(String args[]) {
+        System.out.println("HELLO RECT");
+    }
 } // end Rectangle

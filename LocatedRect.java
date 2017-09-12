@@ -2,7 +2,6 @@
 //
 // A LocatedRect is a rectangle with a location in
 // space (unlike a Rectangle which has only a height and width)
-package locatedrectangle;
 
 public class LocatedRect extends Rectangle {
     private double xL, yL; // lower left hand corner.

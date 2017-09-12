@@ -1,5 +1,4 @@
-import LocatedRect.DestRotate;
-import LocatedRect.DestRotate;
+
 public class TestLocatedRect{
     public static void main(String args[]){
         LocatedRect r1 = new LocatedRect(1.0,3.0,1.0,2.0);
